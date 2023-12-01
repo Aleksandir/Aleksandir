@@ -3,17 +3,15 @@
 I'm a software engineer who is passionate about creating innovative solutions and learning new technologies. I have experience in web development, data science, and machine learning.
 
 - 🌱 I’m currently learning Go
-- 👯 I’m looking to collaborate on open source projects related to web development and data science 
+- 👯 I’m looking to collaborate on open source projects related to web development and data science
 - 💬 Ask me about anything related to web development, data science, and machine learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aleksandir-b-785885244/), [Discord](https://discordapp.com/users/145047521482375169)
 
-
 ## My GitHub Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandir&show_icons=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
 
-![Aleksandir's GitHub stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandir&show_icons=true&theme=one_dark_pro))](https://github.com/anuraghazra/github-readme-stats))
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandir&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandir&show_icons=true&theme=one_dark_pro&layout=compact)
 
 ## My Recent Blog Posts
 
@@ -30,4 +28,4 @@ I'm a software engineer who is passionate about creating innovative solutions an
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
