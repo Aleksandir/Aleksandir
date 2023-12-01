@@ -11,7 +11,7 @@ I'm a software engineer who is passionate about creating innovative solutions an
 ## My GitHub Stats
 
 
-![Aleksandir's GitHub stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandir)](https://github.com/anuraghazra/github-readme-stats))
+![Aleksandir's GitHub stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandir&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats))
 
 ![Top Langs](https://github.com/new)
 
