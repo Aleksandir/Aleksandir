@@ -1,7 +1,5 @@
 # Hi there, I'm Aleksandir 👋
 
-I'm a software engineer who is passionate about creating innovative solutions and learning new technologies. I have experience in web development, data science, and machine learning.
-
 - 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on open source projects related to web development and data science
 - 💬 Ask me about anything related to web development, data science, and machine learning
@@ -9,23 +7,22 @@ I'm a software engineer who is passionate about creating innovative solutions an
 
 ## My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandir&show_icons=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Aleksandir/count.svg" />
+</p>
+
+\*[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandir&show_icons=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandir&show_icons=true&theme=one_dark_pro&layout=compact)
 
-## My Recent Blog Posts
-
-- [How to Create a Beautiful README for Your GitHub Profile](https://yushi95.medium.com/how-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c)
-- [How to Use GitHub Actions to Automate Your Workflow](https://www.sitepoint.com/github-profile-readme/)
-- [How to Build a Web Scraper with Python and BeautifulSoup](https://aboutmonica.com/blog/how-to-create-a-github-profile-readme/)
-- [How to Perform Sentiment Analysis with Python and NLTK](https://plainenglish.io/blog/how-to-create-an-awesome-github-profile-readme-a474d5b45645)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aleksandir&show_icons=true&theme=one_dark_pro" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandir&show_icons=true&theme=one_dark_pro&layout=compact" />
+    </td>
+  </tr>
+</table>
