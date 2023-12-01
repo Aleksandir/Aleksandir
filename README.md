@@ -13,7 +13,7 @@ I'm a software engineer who is passionate about creating innovative solutions an
 
 ![Aleksandir's GitHub stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksandir&show_icons=true&theme=one_dark_pro))](https://github.com/anuraghazra/github-readme-stats))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandir&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandir&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Recent Blog Posts
 
