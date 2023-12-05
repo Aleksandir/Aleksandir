@@ -11,7 +11,7 @@ I’m a tech enthusiast and a student of Information Technology. When I’m not 
 
 <p float="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Aleksandir&show_icons=true&theme=one_dark_pro&custom_title=Aleksandir's%20Github%20Stats&hide=stars"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandir&show_icons=true&theme=one_dark_pro&layout=compact" width="355" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandir&show_icons=true&theme=one_dark_pro&layout=compact" width="310" />
 </p>
 
 <!-- badges from https://github.com/Ileriayo/markdown-badges -->
