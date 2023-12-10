@@ -2,9 +2,9 @@
 
 I’m a tech enthusiast and a student of Information Technology. When I’m not working, I love to code, learn new concepts, and contribute to open-source projects. I’m passionate about problem-solving, continuous improvement, and community support. Let’s connect and collaborate on some cool tech ideas!
 
-- 🌱 I’m currently learning Go, web development, and data visualization
+- 🌱 I’m currently learning Mojo, Go, web development, and data visualization
 - 👯 I’m looking to collaborate on open-source projects related to web development and data science
-- 💬 Ask me about anything related to Python, Go, or Rust
+- 💬 Ask me about anything related to Python or Mojo
 - ⚡ Fun fact: I love to play the guitar
 
 ## My GitHub Stats
