@@ -2,10 +2,10 @@
 
 I'm a tech enthusiast and a student of Information Technology. When I'm not working, I love to code, learn new concepts, and contribute to open-source projects. I'm passionate about problem-solving, continuous improvement, and community support. Let's connect and collaborate on some cool tech ideas!
 
-- 🌱 I'm currently learning Mojo, Go, web development, and data visualization
-- 👯 I'm looking to collaborate on open-source projects related to web development and data science
-- 💬 Ask me about anything related to Python or Mojo
-- ⚡ Fun fact: I love to play the guitar
+- 🌱 I'm currently learning Python and exploring web development with HTML/CSS/JavaScript.
+- 👯 I'm looking to collaborate on beginner-friendly open-source projects. I'm particularly interested in web development and data science projects.
+- 💬 Ask me about my learning journey, I'd love to share my experiences and learn from others.
+- ⚡ Fun fact: When I'm not coding, I love to play the guitar.
 
 ## My GitHub Stats
 
