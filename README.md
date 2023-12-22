@@ -1,4 +1,4 @@
-# Hi there, I'm Aleksandir 👋
+# Hi there, I'm Aleks 👋
 
 I'm a tech enthusiast and a student of Information Technology. When I'm not working, I love to code, learn new concepts, and contribute to open-source projects. I'm passionate about problem-solving, continuous improvement, and community support. Let's connect and collaborate on some cool tech ideas!
 
